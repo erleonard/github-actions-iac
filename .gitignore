@@ -30,3 +30,7 @@ override.tf.json
 
 *.code-workspace
 devcontainer.env
+.vscode
+.npmignore
+package.json
+package-lock.json
